@@ -736,6 +736,14 @@ section {
   color: #ffb727;
 }
 
+@media (max-width: 768px) {
+  #card{
+    flex-direction:column;
+    align-items:stretch;
+    justify-content: center;
+  }
+}
+
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
