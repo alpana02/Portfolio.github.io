@@ -717,7 +717,7 @@ section {
   font-size: 18px;
 }
 
-.services .title a {
+.services .title {
   color: #111;
   transition: 0.3s;
 }
@@ -732,7 +732,7 @@ section {
   border-color: #ffb727;
 }
 
-.services .icon-box:hover .title a {
+.services .icon-box:hover .title {
   color: #ffb727;
 }
 
